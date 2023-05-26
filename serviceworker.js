@@ -1,6 +1,6 @@
 var GHPATH = "/Test-App";
 var APP_PREFIX = "testapp_";
-var VERSION = "version_003";
+var VERSION = "version_004";
 var URLS = [
   `${GHPATH}/`,
   `${GHPATH}/index.html`,

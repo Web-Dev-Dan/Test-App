@@ -1,6 +1,6 @@
 {
-  "name": "Test App",
-  "short_name": "TESTAPP",
+  "name": "MyApp",
+  "short_name": "MyApp",
   "description": "A Test Progressive Web App (PWA)",
   "scope": "/Test-App/",
   "start_url": "/Test-App/",

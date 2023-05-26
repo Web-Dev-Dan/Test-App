@@ -9,7 +9,24 @@
     <link rel="stylesheet" href="./styles/style.css" />
   </head>
   <body>
-    <h1>Test App</h1>
+    <!-- 
+        NOTE:
+        Change version in serviceworker.js each time updates are made to GitHub (or it won't update the cache)
+    -->
+    <!-- Navigation -->
+    <nav class="nav">
+      <h1>MyApp</h1>
+    </nav>
+
+    <!-- Content -->
+    <div class="content-container">
+      <p>Welcome to MyApp!</p>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>MyApp. &copy; Copyright 2023.</p>
+    </footer>
 
     <script>
       if (navigator.serviceWorker) {
